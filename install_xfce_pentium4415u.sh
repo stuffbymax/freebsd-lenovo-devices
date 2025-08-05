@@ -26,6 +26,6 @@ sudo pkg install -y powerdxx
 sudo sysrc powerdxx_enable=YES
 
 echo ">>> All done!"
-echo ">>> If using Wi-Fi, configure /etc/wpa_supplicant.conf manually."
+echo ">>> If using Wi-Fi, configure /etc/wpa_supplicant.conf manually. if you dont did it in the FreeBSD Install"
 echo ">>> You can now reboot. XFCE should launch at login."
 
