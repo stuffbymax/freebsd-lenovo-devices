@@ -1,5 +1,5 @@
 #!/bin/sh
-# Lenovo Yoga 530-14IKB - Intel Pentium 4415U (Intel HD Graphics 610, no dGPU)
+# Lenovo Yoga 530-14IKB - Intel Core i3-8130U (Intel UHD Graphics 620, no dGPU)
 set -e
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 . "$SCRIPT_DIR/common.sh"
